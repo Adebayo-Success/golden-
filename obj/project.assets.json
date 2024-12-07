@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\SYS-232\\Desktop\\Array Project\\Algorithms\\Algorithms.csproj",
+      "projectUniqueName": "C:\\Users\\SYS-232\\Desktop\\Algorithms\\Algorithms.csproj",
       "projectName": "Algorithms",
-      "projectPath": "C:\\Users\\SYS-232\\Desktop\\Array Project\\Algorithms\\Algorithms.csproj",
+      "projectPath": "C:\\Users\\SYS-232\\Desktop\\Algorithms\\Algorithms.csproj",
       "packagesPath": "C:\\Users\\SYS-232\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\SYS-232\\Desktop\\Array Project\\Algorithms\\obj\\",
+      "outputPath": "C:\\Users\\SYS-232\\Desktop\\Algorithms\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\SYS-232\\AppData\\Roaming\\NuGet\\NuGet.Config"

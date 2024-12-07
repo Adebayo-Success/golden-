@@ -8,6 +8,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = Algorithms
-build_property.ProjectDir = C:\Users\SYS-232\Desktop\Array Project\Algorithms\
+build_property.ProjectDir = C:\Users\SYS-232\Desktop\Algorithms\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
